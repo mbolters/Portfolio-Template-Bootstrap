@@ -28,3 +28,35 @@ body,
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
   background-color: #1C2331; }
+
+  #contact #send-mail {
+    width: 20%;
+    position: relative;
+    text-indent: 30px;
+    margin: 3em auto 5em auto;
+    color: #fff;
+    border-color: #fff;
+    font-size: 1em;
+    padding: 1.5em 0;
+}
+
+.button {
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  border: 2px solid transparent;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: background-color 0.5s ease-in-out, 1s;
+  -moz-transition: background-color 0.5s ease-in-out, 1s;
+  -o-transition: background-color 0.5s ease-in-out, 1s;
+  transition: background-color 0.5s ease-in-out, 1s;
+  text-decoration: none;
+}
+
+
